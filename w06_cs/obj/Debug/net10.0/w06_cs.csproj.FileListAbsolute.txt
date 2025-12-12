@@ -1,0 +1,14 @@
+D:\oop\home_work\w06_653120100116\w06_cs\bin\Debug\net10.0\w06_cs.exe
+D:\oop\home_work\w06_653120100116\w06_cs\bin\Debug\net10.0\w06_cs.deps.json
+D:\oop\home_work\w06_653120100116\w06_cs\bin\Debug\net10.0\w06_cs.runtimeconfig.json
+D:\oop\home_work\w06_653120100116\w06_cs\bin\Debug\net10.0\w06_cs.dll
+D:\oop\home_work\w06_653120100116\w06_cs\bin\Debug\net10.0\w06_cs.pdb
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\w06_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\w06_cs.AssemblyInfoInputs.cache
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\w06_cs.AssemblyInfo.cs
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\w06_cs.csproj.CoreCompileInputs.cache
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\w06_cs.dll
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\refint\w06_cs.dll
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\w06_cs.pdb
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\w06_cs.genruntimeconfig.cache
+D:\oop\home_work\w06_653120100116\w06_cs\obj\Debug\net10.0\ref\w06_cs.dll
